@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Ching-Yi from Taiwan.
-- 👀 I’m a working student in AX-Semantics 
-- 🌱 I’m currently studying in Computational Linguistics in Uni Stuttgart ...
 
 
 <!---
